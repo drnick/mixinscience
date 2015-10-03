@@ -1,1 +1,1 @@
-# mixinscience
+# MixinScience
